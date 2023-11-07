@@ -1,0 +1,456 @@
+[
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Shakib_Al_Hasan_(2020).jpg",
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "speciality": "All-Rounder",
+    "description": "One of the best all-rounders in the world, Shakib is known for his batting and left-arm spin bowling.",
+    "rating": 9.5,
+    "fieldingRating": 8.5
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Tamim_Iqbal_May_2015.jpg",
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "speciality": "Batsman",
+    "description": "A stylish left-handed opening batsman known for his aggressive strokeplay.",
+    "rating": 8.9,
+    "fieldingRating": 7.0
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Mushfiqur_Rahim.jpg",
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "speciality": "Wicket Keeper",
+    "description": "The team's wicket-keeper-batsman known for his calm and composed batting style.",
+    "rating": 8.2,
+    "fieldingRating": 8.8
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Mustafizur_Rahman.jpg",
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "speciality": "Bowler",
+    "description": "A young and promising left-arm fast bowler with excellent variation in his deliveries.",
+    "rating": 8.6,
+    "fieldingRating": 7.2
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Mehidy_Hasan.jpg",
+    "name": "Mehidy Hasan",
+    "country": "Bangladesh",
+    "speciality": "All-Rounder",
+    "description": "A spin-bowling all-rounder known for his off-spin and useful lower-order batting.",
+    "rating": 7.8,
+    "fieldingRating": 7.5
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Liton_Das_May_2018.jpg",
+    "name": "Liton Das",
+    "country": "Bangladesh",
+    "speciality": "Batsman",
+    "description": "An aggressive right-handed opening batsman with a bright future in international cricket.",
+    "rating": 7.4,
+    "fieldingRating": 6.8
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Md_Saifuddin_May_2018.jpg",
+    "name": "Mohammad Saifuddin",
+    "country": "Bangladesh",
+    "speciality": "All-Rounder",
+    "description": "A pace-bowling all-rounder with the ability to contribute with both bat and ball.",
+    "rating": 7.6,
+    "fieldingRating": 7.3
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Soumya_Sarkar.jpg",
+    "name": "Soumya Sarkar",
+    "country": "Bangladesh",
+    "speciality": "All-Rounder",
+    "description": "A versatile all-rounder known for his aggressive batting and medium-pace bowling.",
+    "rating": 7.2,
+    "fieldingRating": 7.0
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Najmul_Hossain_Shanto_(2019).jpg",
+    "name": "Najmul Hossain Shanto",
+    "country": "Bangladesh",
+    "speciality": "Batsman",
+    "description": "A young left-handed batsman known for his solid technique and temperament.",
+    "rating": 7.1,
+    "fieldingRating": 7.5
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Rubel_Hossain_2018.jpg",
+    "name": "Rubel Hossain",
+    "country": "Bangladesh",
+    "speciality": "Bowler",
+    "description": "A fast bowler with the ability to generate pace and swing the ball.",
+    "rating": 7.3,
+    "fieldingRating": 6.5
+  },
+  
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Virat_Kohli_Nov_2018.jpg",
+    "name": "Virat Kohli",
+    "country": "India",
+    "speciality": "Batsman",
+    "description": "One of the best batsmen in the world, known for his aggressive batting and consistency.",
+    "rating": 9.8,
+    "fieldingRating": 8.7
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Rohit_Sharma_May_2015.jpg",
+    "name": "Rohit Sharma",
+    "country": "India",
+    "speciality": "Batsman",
+    "description": "An elegant right-handed opening batsman with a high-scoring ability.",
+    "rating": 9.6,
+    "fieldingRating": 7.8
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:MS_Dhoni_at_the_British_Parliament.jpg",
+    "name": "Mahendra Singh Dhoni",
+    "country": "India",
+    "speciality": "Wicket Keeper",
+    "description": "Former captain and wicket-keeper-batsman, known for his cool and composed leadership.",
+    "rating": 8.9,
+    "fieldingRating": 8.5
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Jasprit_Bumrah.jpg",
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "speciality": "Bowler",
+    "description": "A world-class fast bowler known for his pinpoint yorkers and variety in bowling.",
+    "rating": 9.0,
+    "fieldingRating": 7.2
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Hardik_Pandya_August_2017.jpg",
+    "name": "Hardik Pandya",
+    "country": "India",
+    "speciality": "All-Rounder",
+    "description": "A dynamic all-rounder known for his explosive batting and medium-pace bowling.",
+    "rating": 8.7,
+    "fieldingRating": 7.4
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Shikhar_Dhawan,_November_2019.jpg",
+    "name": "Shikhar Dhawan",
+    "country": "India",
+    "speciality": "Batsman",
+    "description": "An aggressive left-handed opening batsman with a great sense of timing.",
+    "rating": 8.6,
+    "fieldingRating": 7.0
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Ravindra_Jadeja_2017.jpg",
+    "name": "Ravindra Jadeja",
+    "country": "India",
+    "speciality": "All-Rounder",
+    "description": "A spinning all-rounder known for his left-arm spin and electric fielding.",
+    "rating": 8.5,
+    "fieldingRating": 9.5
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Bhuvneshwar_Kumar.jpg",
+    "name": "Bhuvneshwar Kumar",
+    "country": "India",
+    "speciality": "Bowler",
+    "description": "A swing and seam bowler with a knack for picking early wickets.",
+    "rating": 8.2,
+    "fieldingRating": 7.2
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:KL_Rahul_2019.jpg",
+    "name": "KL Rahul",
+    "country": "India",
+    "speciality": "Batsman",
+    "description": "A versatile right-handed batsman who can keep wickets when needed.",
+    "rating": 8.3,
+    "fieldingRating": 7.4
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Yuzvendra_Chardra_2017.jpg",
+    "name": "Yuzvendra Chahal",
+    "country": "India",
+    "speciality": "Bowler",
+    "description": "A leg-spin bowler known for his wicket-taking abilities in limited-overs cricket.",
+    "rating": 8.0,
+    "fieldingRating": 7.0
+  },
+  
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Steve_Smith_May_2018.jpg",
+    "name": "Steve Smith",
+    "country": "Australia",
+    "speciality": "Batsman",
+    "description": "One of the world's best batsmen, known for his unorthodox style and impeccable technique.",
+    "rating": 9.7,
+    "fieldingRating": 8.8
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:David_Warner_in_2013_(cropped).jpg",
+    "name": "David Warner",
+    "country": "Australia",
+    "speciality": "Batsman",
+    "description": "An aggressive left-handed opening batsman with a penchant for big hits.",
+    "rating": 9.5,
+    "fieldingRating": 7.5
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Tim_Paine_March_2018.jpg",
+    "name": "Tim Paine",
+    "country": "Australia",
+    "speciality": "Wicket Keeper",
+    "description": "The captain and wicket-keeper of the Australian cricket team, known for his leadership skills.",
+    "rating": 8.5,
+    "fieldingRating": 8.9
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Pat_Cummins_(cricketer).jpg",
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "speciality": "Bowler",
+    "description": "A fast bowler with the ability to generate pace and bounce, a key wicket-taker for Australia.",
+    "rating": 9.0,
+    "fieldingRating": 8.0
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Glenn_Maxwell_Feb_2018.jpg",
+    "name": "Glenn Maxwell",
+    "country": "Australia",
+    "speciality": "All-Rounder",
+    "description": "A dynamic all-rounder known for his big hitting and off-spin bowling.",
+    "rating": 8.7,
+    "fieldingRating": 8.2
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Usman_Khawaja,_2011.jpg",
+    "name": "Usman Khawaja",
+    "country": "Australia",
+    "speciality": "Batsman",
+    "description": "A stylish left-handed batsman known for his elegant strokeplay.",
+    "rating": 8.6,
+    "fieldingRating": 7.4
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Alex_Carey_(cricketer).jpg",
+    "name": "Alex Carey",
+    "country": "Australia",
+    "speciality": "Wicket Keeper",
+    "description": "A young wicket-keeper-batsman with a bright future in Australian cricket.",
+    "rating": 8.3,
+    "fieldingRating": 8.5
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Mitchell_Starc_2018_(cropped).jpg",
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "speciality": "Bowler",
+    "description": "A left-arm fast bowler with the ability to swing the ball at high speeds.",
+    "rating": 8.9,
+    "fieldingRating": 7.2
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Matthew_Wade_(Cricketer).jpg",
+    "name": "Matthew Wade",
+    "country": "Australia",
+    "speciality": "Wicket Keeper",
+    "description": "A wicket-keeper-batsman known for his aggressive approach and adaptability.",
+    "rating": 8.4,
+    "fieldingRating": 8.0
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Adam_Zampa_CWC19_(cropped).jpg",
+    "name": "Adam Zampa",
+    "country": "Australia",
+    "speciality": "Bowler",
+    "description": "A leg-spin bowler known for his variations and ability to take crucial wickets.",
+    "rating": 8.1,
+    "fieldingRating": 8.3
+  },
+
+  {
+    "image": "https://en.wikipedia.org/wiki/File:AB_de_Villiers_June_2018_(cropped).jpg",
+    "name": "AB de Villiers",
+    "country": "South Africa",
+    "speciality": "Batsman",
+    "description": "A versatile and innovative batsman known for his unorthodox shots and adaptability.",
+    "rating": 9.6,
+    "fieldingRating": 9.3
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Kagiso_Rabada_(2018-03-29).jpg",
+    "name": "Kagiso Rabada",
+    "country": "South Africa",
+    "speciality": "Bowler",
+    "description": "A young and fiery fast bowler with the ability to bowl consistently at high speeds.",
+    "rating": 9.1,
+    "fieldingRating": 8.0
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Quinton_de_Kock_May_2015.jpg",
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "speciality": "Wicket Keeper",
+    "description": "A left-handed wicket-keeper-batsman known for his aggressive batting style.",
+    "rating": 8.8,
+    "fieldingRating": 8.5
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Faf_du_Plessis_2019_(cropped).jpg",
+    "name": "Faf du Plessis",
+    "country": "South Africa",
+    "speciality": "Batsman",
+    "description": "A solid middle-order batsman and former captain of the South African cricket team.",
+    "rating": 8.7,
+    "fieldingRating": 8.9
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Imran_Tahir_February_2019_(cropped).jpg",
+    "name": "Imran Tahir",
+    "country": "South Africa",
+    "speciality": "Bowler",
+    "description": "A leg-spin bowler known for his celebrations and ability to pick crucial wickets.",
+    "rating": 8.4,
+    "fieldingRating": 7.5
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Rassie_van_der_Dussen_May_2019_(cropped).jpg",
+    "name": "Rassie van der Dussen",
+    "country": "South Africa",
+    "speciality": "Batsman",
+    "description": "A promising right-handed batsman with a solid technique and temperament.",
+    "rating": 8.3,
+    "fieldingRating": 7.7
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Lungi_Ngidi.jpg",
+    "name": "Lungi Ngidi",
+    "country": "South Africa",
+    "speciality": "Bowler",
+    "description": "A tall and athletic fast bowler known for his pace and bounce.",
+    "rating": 8.5,
+    "fieldingRating": 7.8
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:David_Miller_(cricketer).jpg",
+    "name": "David Miller",
+    "country": "South Africa",
+    "speciality": "Batsman",
+    "description": "A left-handed batsman known for his power-hitting in the middle overs.",
+    "rating": 8.0,
+    "fieldingRating": 7.0
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Chris_Morris_February_2019_(cropped).jpg",
+    "name": "Chris Morris",
+    "country": "South Africa",
+    "speciality": "All-Rounder",
+    "description": "A pace-bowling all-rounder with the ability to contribute with both bat and ball.",
+    "rating": 8.2,
+    "fieldingRating": 7.2
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:JP_Duminy_May_2019_(cropped).jpg",
+    "name": "JP Duminy",
+    "country": "South Africa",
+    "speciality": "All-Rounder",
+    "description": "An experienced all-rounder known for his off-spin and middle-order batting.",
+    "rating": 8.1,
+    "fieldingRating": 8.4
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Kumar_Sangakkara_at_Cooper_Associates_County_Ground,_Taunton_on_8_July_2016_(4)_(cropped).jpg",
+    "name": "Kumar Sangakkara",
+    "country": "Sri Lanka",
+    "speciality": "Batsman",
+    "description": "A legendary Sri Lankan batsman known for his stylish and classy strokeplay.",
+    "rating": 9.6,
+    "fieldingRating": 8.5
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Lasith_Malinga_November_2010.jpg",
+    "name": "Lasith Malinga",
+    "country": "Sri Lanka",
+    "speciality": "Bowler",
+    "description": "A unique fast bowler known for his toe-crushing yorkers and slingy action.",
+    "rating": 9.1,
+    "fieldingRating": 7.8
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Angelo_Mathews.jpg",
+    "name": "Angelo Mathews",
+    "country": "Sri Lanka",
+    "speciality": "All-Rounder",
+    "description": "An all-rounder known for his middle-order batting and medium-pace bowling.",
+    "rating": 8.7,
+    "fieldingRating": 8.2
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Tillakaratne_Dilshan_December_2014_(cropped).jpg",
+    "name": "Tillakaratne Dilshan",
+    "country": "Sri Lanka",
+    "speciality": "Batsman",
+    "description": "An innovative batsman known for popularizing the 'Dilscoop' shot in cricket.",
+    "rating": 8.5,
+    "fieldingRating": 7.5
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Kusal_Perera_(cricketer).jpg",
+    "name": "Kusal Perera",
+    "country": "Sri Lanka",
+    "speciality": "Wicket Keeper",
+    "description": "A left-handed wicket-keeper-batsman known for his aggressive style of play.",
+    "rating": 8.4,
+    "fieldingRating": 8.8
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Dimuth_Karunaratne_CWC19.jpg",
+    "name": "Dimuth Karunaratne",
+    "country": "Sri Lanka",
+    "speciality": "Batsman",
+    "description": "A left-handed opening batsman and the captain of the Sri Lankan cricket team.",
+    "rating": 8.2,
+    "fieldingRating": 8.0
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Suranga_Lakmal_2018_(cropped).jpg",
+    "name": "Suranga Lakmal",
+    "country": "Sri Lanka",
+    "speciality": "Bowler",
+    "description": "A pace bowler known for his seam movement and ability to extract bounce.",
+    "rating": 8.0,
+    "fieldingRating": 7.2
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Dhananjaya_de_Silva,_2019_(cropped).jpg",
+    "name": "Dhananjaya de Silva",
+    "country": "Sri Lanka",
+    "speciality": "All-Rounder",
+    "description": "A spinning all-rounder known for his off-spin and useful contributions with the bat.",
+    "rating": 7.9,
+    "fieldingRating": 7.5
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Lahiru_Thirimanne_2017.jpg",
+    "name": "Lahiru Thirimanne",
+    "country": "Sri Lanka",
+    "speciality": "Batsman",
+    "description": "A left-handed batsman known for his solid technique and temperament.",
+    "rating": 7.8,
+    "fieldingRating": 7.4
+  },
+  {
+    "image": "https://en.wikipedia.org/wiki/File:Wanindu_Hasaranga_(cropped).jpg",
+    "name": "Wanindu Hasaranga",
+    "country": "Sri Lanka",
+    "speciality": "All-Rounder",
+    "description": "A young all-rounder known for his leg-spin and potential with the bat.",
+    "rating": 7.6,
+    "fieldingRating": 7.7
+  }
+
+]
